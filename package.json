@@ -1,0 +1,23 @@
+{
+  "name": "extension-management",
+  "version": "1.0.0",
+  "description": "Extension Converter Web application for Mini Project in undergrade ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Word",
+    "PDF",
+    "JPG",
+    "HTML"
+  ],
+  "author": "Shaikh Unais Ahmad",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
