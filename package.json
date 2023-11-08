@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Extension Converter Web application for Mini Project in undergrade ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [
     "Word",
@@ -15,8 +16,7 @@
   "author": "Shaikh Unais Ahmad",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.1",
-    "prettier": "^3.0.3"
+    "nodemon": "^3.0.1"
   },
   "dependencies": {
     "express": "^4.18.2"
