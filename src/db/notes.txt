@@ -1,2 +1,0 @@
-moon modeler/Eraser.io
-first diagrams and modelling are made before selecting any technology

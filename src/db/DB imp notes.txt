@@ -1,0 +1,4 @@
+moon modeler/Eraser.io
+first diagrams and modelling are made before selecting any technology
+jab bhi DB se baat karenge problems aayigi,try catch mai wrap karo
+"DB is on another continent" Async Await lagana hi padhenga
