@@ -1,1 +1,1 @@
-const DB_NAME = "Extension_Mangement";
+export const DB_NAME = "videotube"
